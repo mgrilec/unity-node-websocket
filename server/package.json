@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "unity-node-websocket",
+  "dependencies": {
+    "express": "^4.12.4",
+    "socket.io": "^1.3.5"
+  }
+}
